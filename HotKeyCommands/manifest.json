@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "HotKeyCommands",
+  "author": "SmokyAce",
+  "version": "1.6.0",
+  "description": "Assign HotKeys To Console Commands!",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
